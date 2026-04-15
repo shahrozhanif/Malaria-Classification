@@ -1,6 +1,6 @@
-## Malaria Classification using Deep Learning
+# Malaria Classification using Deep Learning
 
-# Project Overview
+## Project Overview
 
 Malaria is a life-threatening disease caused by parasites transmitted through mosquito bites. Early and accurate diagnosis is critical. This project uses deep learning techniques to classify cell images as:
 Parasitized
@@ -8,7 +8,7 @@ Uninfected
 
 The implementation is done using TensorFlow/Keras and includes multiple experiments to improve model performance and reproducibility.
 
-# Project Structure
+## Project Structure
 Malaria Classification/
 │
 ├── Malaria Diagnosis using Convolutional Neural Network.ipynb
@@ -18,7 +18,7 @@ Malaria Classification/
 ├── Hyper Parameter Tuning (Bayesian Optimization) using keras tuner.ipynb
 ├── TensorBoard Integration.ipynb
 
-# Features
+## Features
 CNN-based image classification
 Custom loss functions and evaluation metrics
 Experiment tracking with Weights & Biases (W&B)
@@ -28,7 +28,7 @@ Hyperparameter tuning using:
 TensorBoard integration for visualization
 
 
-# Technologies Used
+## Technologies Used
 Python
 TensorFlow / Keras
 NumPy / Matplotlib
