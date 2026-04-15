@@ -1,4 +1,4 @@
-Malaria Classification using Deep Learning
+## Malaria Classification using Deep Learning
 
 # Project Overview
 
